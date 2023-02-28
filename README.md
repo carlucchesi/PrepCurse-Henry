@@ -1,2 +1,2 @@
-# PrepCurse-Henry
-Este es un repositorio de prueba del curso de Henry
+
+Este es el primer commit realizado en el curso de Henrys
